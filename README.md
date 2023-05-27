@@ -1,5 +1,14 @@
 # 基于c++分布式文件传输系统
 
+## 技术栈
+
+- C++
+- Nginx
+- MySQL
+- Redis
+- Fastcgi
+- FastDFS
+
 ## 目录结构
 
 ```shell
