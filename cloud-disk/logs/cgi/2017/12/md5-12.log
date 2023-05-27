@@ -1,0 +1,40 @@
+[2017-12-12 19:20:07]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "YunDisk.exe",
+    "md5": "474924f9c5cef34b3b928dec8b8b91d1",
+    "token": "6214179e1470bf0214fb473f331c7464",
+    "user": "kevin"
+}
+
+[2017-12-12 19:20:07]--[src_cgi/md5_cgi.c:361]--user = kevin, token = 6214179e1470bf0214fb473f331c7464, md5 = 474924f9c5cef34b3b928dec8b8b91d1, filename = YunDisk.exe
+[2017-12-12 19:20:18]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "07 Shadows.mp4",
+    "md5": "373be91530a1a3dc731ce6df7a652639",
+    "token": "6214179e1470bf0214fb473f331c7464",
+    "user": "kevin"
+}
+
+[2017-12-12 19:20:18]--[src_cgi/md5_cgi.c:361]--user = kevin, token = 6214179e1470bf0214fb473f331c7464, md5 = 373be91530a1a3dc731ce6df7a652639, filename = 07 Shadows.mp4
+[2017-12-12 19:24:19]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "07 Shadows.mp4",
+    "md5": "373be91530a1a3dc731ce6df7a652639",
+    "token": "69962dfadc540bb5a14812fd6bc7b77b",
+    "user": "kevin"
+}
+
+[2017-12-12 19:24:19]--[src_cgi/md5_cgi.c:361]--user = kevin, token = 69962dfadc540bb5a14812fd6bc7b77b, md5 = 373be91530a1a3dc731ce6df7a652639, filename = 07 Shadows.mp4
+[2017-12-12 19:29:59]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "07 Shadows.mp4",
+    "md5": "373be91530a1a3dc731ce6df7a652639",
+    "token": "fd0b347a9a4a08e339579c1d0e8bb1fd",
+    "user": "kevin"
+}
+
+[2017-12-12 19:29:59]--[src_cgi/md5_cgi.c:361]--user = kevin, token = fd0b347a9a4a08e339579c1d0e8bb1fd, md5 = 373be91530a1a3dc731ce6df7a652639, filename = 07 Shadows.mp4
+[2017-12-12 23:27:06]--[src_cgi/md5_cgi.c:339]--buf = {
+    "fileName": "_C语言描述(中文版).pdf",
+    "md5": "93a30db653ef674cee76503abaabf058",
+    "token": "d139882ef00b891a979bf26aef0621f3",
+    "user": "kevin"
+}
+
+[2017-12-12 23:27:06]--[src_cgi/md5_cgi.c:361]--user = kevin, token = d139882ef00b891a979bf26aef0621f3, md5 = 93a30db653ef674cee76503abaabf058, filename = _C语言描述(中文版).pdf

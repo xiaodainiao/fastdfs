@@ -1,0 +1,9 @@
+[2017-12-12 19:30:23]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2017-12-12 19:30:23]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "07 Shadows.mp4",
+    "md5": "373be91530a1a3dc731ce6df7a652639",
+    "token": "fd0b347a9a4a08e339579c1d0e8bb1fd",
+    "user": "kevin"
+}
+
+[2017-12-12 19:30:23]--[src_cgi/dealfile_cgi.c:730]--user = kevin, token = fd0b347a9a4a08e339579c1d0e8bb1fd, md5 = 373be91530a1a3dc731ce6df7a652639, filename = 07 Shadows.mp4

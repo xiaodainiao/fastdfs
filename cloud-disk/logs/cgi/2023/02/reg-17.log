@@ -1,0 +1,21 @@
+[2023-02-17 02:38:28]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "cf79ae6addba60ad018347359bd144d2",
+    "nickName": "1999Zhd",
+    "phone": "11111111111",
+    "userName": "1999Zhd"
+}
+
+[2023-02-17 02:38:28]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = , mysql_db = cloud_disk
+[2023-02-17 02:38:28]--[src_cgi/reg_cgi.c:141]--user = 1999Zhd, nick_name = 1999Zhd, pwd = cf79ae6addba60ad018347359bd144d2, tel = 11111111111, email = abc@qq.com
+[2023-02-17 02:38:28]--[src_cgi/reg_cgi.c:147]--msql_conn err
+[2023-02-17 02:59:03]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "cf79ae6addba60ad018347359bd144d2",
+    "nickName": "1999Zhd",
+    "phone": "11111111111",
+    "userName": "1999Zhd"
+}
+
+[2023-02-17 02:59:03]--[src_cgi/reg_cgi.c:128]--mysql_user = root, mysql_pwd = , mysql_db = cloud_disk
+[2023-02-17 02:59:03]--[src_cgi/reg_cgi.c:141]--user = 1999Zhd, nick_name = 1999Zhd, pwd = cf79ae6addba60ad018347359bd144d2, tel = 11111111111, email = abc@qq.com

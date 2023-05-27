@@ -1,0 +1,16 @@
+[2023-02-17 02:33:38]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=,database=cloud_disk][2023-02-17 02:56:57]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=,database=cloud_disk][2023-02-17 02:58:59]--[src_cgi/myfiles_cgi.c:40]--mysql:[user=root,pwd=,database=cloud_disk][2023-02-17 02:59:10]--[src_cgi/myfiles_cgi.c:496]--cmd = count
+[2023-02-17 02:59:10]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "token": "37fd0ce68f8a1f0c578199ad0fad382c",
+    "user": "1999Zhd"
+}
+
+[2023-02-17 02:59:10]--[src_cgi/myfiles_cgi.c:164]--select count from user_file_count where user="1999Zhd" 操作失败
+[2023-02-17 02:59:10]--[src_cgi/myfiles_cgi.c:176]--line = 0
+[2023-02-17 03:00:16]--[src_cgi/myfiles_cgi.c:496]--cmd = count
+[2023-02-17 03:00:16]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "token": "7bdd8698180e9468942318c2a5927f43",
+    "user": "1999Zhd"
+}
+
+[2023-02-17 03:00:16]--[src_cgi/myfiles_cgi.c:164]--select count from user_file_count where user="1999Zhd" 操作失败
+[2023-02-17 03:00:16]--[src_cgi/myfiles_cgi.c:176]--line = 0

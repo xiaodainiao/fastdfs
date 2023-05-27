@@ -1,0 +1,12 @@
+[2017-12-12 19:20:07]--[src_cgi/upload_cgi.c:616]--kevin成功上传[YunDisk.exe, 大小：1012736, md5码：474924f9c5cef34b3b928dec8b8b91d1]到本地
+[2017-12-12 19:20:07]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgB3lownGeAC3GRAA90AAWFpjM762.exe] succ!
+[2017-12-12 19:20:07]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.1.222:80/group1/M00/00/00/wKgB3lownGeAC3GRAA90AAWFpjM762.exe
+[2017-12-12 19:20:07]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('474924f9c5cef34b3b928dec8b8b91d1', 'group1/M00/00/00/wKgB3lownGeAC3GRAA90AAWFpjM762.exe', 'http://192.168.1.222:80/group1/M00/00/00/wKgB3lownGeAC3GRAA90AAWFpjM762.exe', '1012736', 'exe', 1) 文件信息插入成功
+[2017-12-12 19:30:04]--[src_cgi/upload_cgi.c:616]--kevin成功上传[07 Shadows.mp4, 大小：30593138, md5码：373be91530a1a3dc731ce6df7a652639]到本地
+[2017-12-12 19:30:04]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgB3lownryASNUCAdLQcv0GP78365.mp4] succ!
+[2017-12-12 19:30:04]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.1.222:80/group1/M00/00/00/wKgB3lownryASNUCAdLQcv0GP78365.mp4
+[2017-12-12 19:30:05]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('373be91530a1a3dc731ce6df7a652639', 'group1/M00/00/00/wKgB3lownryASNUCAdLQcv0GP78365.mp4', 'http://192.168.1.222:80/group1/M00/00/00/wKgB3lownryASNUCAdLQcv0GP78365.mp4', '30593138', 'mp4', 1) 文件信息插入成功
+[2017-12-12 23:27:08]--[src_cgi/upload_cgi.c:616]--kevin成功上传[_C语言描述(中文版).pdf, 大小：9118442, md5码：93a30db653ef674cee76503abaabf058]到本地
+[2017-12-12 23:27:08]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgB3low1kyAFtH3AIsi6mzz670510.pdf] succ!
+[2017-12-12 23:27:08]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.1.222:80/group1/M00/00/00/wKgB3low1kyAFtH3AIsi6mzz670510.pdf
+[2017-12-12 23:27:08]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('93a30db653ef674cee76503abaabf058', 'group1/M00/00/00/wKgB3low1kyAFtH3AIsi6mzz670510.pdf', 'http://192.168.1.222:80/group1/M00/00/00/wKgB3low1kyAFtH3AIsi6mzz670510.pdf', '9118442', 'pdf', 1) 文件信息插入成功
