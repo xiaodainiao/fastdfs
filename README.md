@@ -112,15 +112,15 @@
 
 ## 整体流程
 
-![image-20230527120613943](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230527120613943.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e4e371ba2a3a4cb38146c9446dc67067.png)
 
 ##  文件上传流程
 
-![image-20230527123513031](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230527123513031.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/087ce5db17c745628a2ddb6f7dbffd89.png)
 
 ## 文件下载流程
 
-![image-20230527124549802](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230527124549802.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/4abc9193057d4b29a938aca9e60d214a.png)
 
 ## 快速下载流程
 
@@ -130,4 +130,5 @@
 
 注意：因为fastdfs不能直接解析http请求，所以需要先安装nginx-fastdfs插件，也就是先让nginx解析，在发送给fastdfs
 
-![image-20230527125025054](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230527125025054.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c2d77ba6770e46aca216149f4343e7fa.png)
+
